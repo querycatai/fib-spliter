@@ -1,6 +1,6 @@
 {
   "name": "fib-spliter",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "",
   "repository": "https://github.com/xicilion/fib-spliter",
   "author": "Liu Hu <lion@9465.net>",
@@ -11,6 +11,7 @@
     "acorn": "^8.8.2",
     "escodegen": "^2.0.0",
     "pdf.js-extract": "^0.2.1",
-    "marked": "^4.3.0"
+    "marked": "^4.3.0",
+    "node-html-markdown": "^1.3.0"
   }
 }
